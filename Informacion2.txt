@@ -1,0 +1,23 @@
+Informacion 2
+Algoritmo:
+Conjunto de pasos finitos para dar solucion a un problema
+
+¿Que es un progrma?
+Agrupacion de instrucciones que permiten ordenar a una computadora el proceso de resolucion
+
+Lenguaje de programacion:
+Son lenguajes formales que permiten comunicarle a un computador las necesidades a solucionar, a traves de instrucciones.
+Entre los ejemplos de lenguaje de programacion tenemos: python, c, c++, php,etc.
+
+Elementos de los Lenguajes de Programacion:
+1. Alfabeto o conjunto de caracteres
+Caracteres alfabeticos(minusuclas y mayusculas)
+Caracteres numericos(digito del 0 al 9)
+Caracteres especiales
+
+2.Vocabulario o Lexico
+Palabras validasb o reservadas:do, for, if, else, int, float
+Cada lenguaje tiene sus propias palabras
+
+3.Gramatica
+Reglas sintacticas que se debe seguir para construir instrucciones  
